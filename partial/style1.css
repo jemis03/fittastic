@@ -1,0 +1,21 @@
+.contact{
+    position: relative;
+    min-height: 110vh;
+    padding: 4rem 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(/fittastic/img/gym1.jpg);
+    background-size: cover;
+}
+
+.contact1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    margin: 2rem;
+}
